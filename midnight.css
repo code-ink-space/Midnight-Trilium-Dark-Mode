@@ -123,6 +123,10 @@ body .global-menu-button {
     color: #FFF !important;
 }
 
+.tree-wrapper {
+    margin-left:1em !important;
+}
+
 /* tree list items */
 /* hover */
 #ft-id-1 .fancytree-node:hover {
@@ -202,12 +206,14 @@ I guess to theme it Trilium would need its own widget */
 
 /* -------------------- Highly Opinionated -------------------- */
 /* allow max width notes, but add slight side margins for gutter comfort */
-.note-split {
+/*.note-split {
     max-width:100% !important;
-}
+}*/
 #center-pane {
-    margin-left:0.5em !important;
-    margin-right:0em !important;
+    margin-left:3.5em !important;
+    margin-right:1em !important;
+    margin-top:1.5em !important;
+    margin-bottom:1em !important;
 }
 
 /* -------------------- Extra Features -------------------- */
