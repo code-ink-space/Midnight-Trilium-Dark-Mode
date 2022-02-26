@@ -232,7 +232,7 @@ body.zen-mode #launcher-pane, body.zen-mode #left-pane {
     width:0 !important:
 } 
 /* display:none not friendly - some of these have an interactivity lag when coming back from display:none so another method must be used */
-body.zen-mode .title-bar-buttons, body.zen-mode .tab-row-widget, body.zen-mode .title-row, body.zen-mode .ribbon-container, body.zen-mode .gutter, body.zen-mode #rest-pane > div:nth-child(1) {
+body.zen-mode .title-bar-buttons, body.zen-mode .tab-row-widget, body.zen-mode .ribbon-container, body.zen-mode .gutter, body.zen-mode #rest-pane > div:nth-child(1) {
     visibility: hidden !important;
     height:0 !important;
     width:0 !important:
